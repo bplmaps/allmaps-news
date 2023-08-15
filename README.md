@@ -1,4 +1,4 @@
-# Allmaps: News & Updates
+# Allmaps News
 
 ![Allmaps banner](https://allmaps.org/allmaps-open-graph.jpg)
 
