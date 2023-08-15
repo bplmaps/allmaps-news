@@ -1,1 +1,4 @@
 theme: minima
+title: Allmaps News
+include:
+  - README.md
