@@ -1,3 +1,5 @@
+## The Allmaps Project
+
 ![Allmaps banner](https://allmaps.org/allmaps-open-graph.jpg)
 
 ### What's Allmaps?
@@ -27,3 +29,7 @@ If you have any questions about the project or would like to get involved, you c
 * Partners
     * [Bert Spaan](https://bertspaan.nl/), Lead Developer
     * [Harrison Cole, Ph.D.](https://www.harrisoncarto.com/), Cartographic Accessibility Compliance Consultant
+
+![Allmaps logo](assets/media/allmaps-logo.png)
+![LMEC logo](https://atlascope.leventhalmap.org/lmec-logo.31e47705.)
+![AGSL logo](https://collections.lib.uwm.edu/customizations/collection/leenh/uwmlibrarieslogo-whiteborder.jpg)
