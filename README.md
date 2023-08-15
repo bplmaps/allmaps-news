@@ -1,3 +1,5 @@
+### Allmaps News
+
 ![Allmaps banner](https://allmaps.org/allmaps-open-graph.jpg)
 
 [Allmaps](https://allmaps.org) is a free and open-source platform for making digital map collections easier to share, use, and explore.
