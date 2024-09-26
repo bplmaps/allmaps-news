@@ -1,35 +1,53 @@
-## The Allmaps Project
+# Open Maps Meeting
 
-![Allmaps banner](https://allmaps.org/allmaps-open-graph.jpg)
+This is an [Observable Framework](https://observablehq.com/framework) app. To start the local preview server, run:
 
-### What's Allmaps?
+```
+npm run dev
+```
 
-[Allmaps](https://allmaps.org) is a free and open-source platform for making digital map collections easier to share, use, and explore.
+Then visit <http://localhost:3000> to preview your app.
 
-As part of a [Digital Humanities Advancement Grant](https://www.neh.gov/grants/odh/digital-humanities-advancement-grants) (2023-2026), the [Leventhal Map & Education Center](https://leventhalmap.org) (LMEC) and the [American Geographical Society Library](https://uwm.edu/libraries/agsl/) (AGSL) are excited to work alongside a community of open-source software developers to make it easier for map-holding institutions to incorporate Allmaps into their collections. Not only will users and institutions be able to easily georeference maps online, but they’ll be able to crowdsource, create, and curate their own collections of maps across different collections.
+For more, see <https://observablehq.com/framework/getting-started>.
 
-### Contact us and learn more
+## Project structure
 
-[Subscribe to the LMEC General newsletter](https://www.leventhalmap.org/subscribe/) to stay tuned for the latest updates about the NEH-funded Allmaps project. You can read more about the award and our plans for the project in the National Endowment for the Humanities' [recent press release](https://www.neh.gov/news/neh-announces-413-million-280-humanities-projects-nationwide).
+A typical Framework project looks like this:
 
-If you have any questions about the project or would like to get involved, you can message us on Twitter at [@bplmaps](https://twitter.com/bplmaps) and [@AGSLib](https://twitter.com/AGSLib) or [reach out to Ian Spangler via email](https://www.leventhalmap.org/about/people/ian-spangler/).
+```ini
+.
+├─ src
+│  ├─ components
+│  │  └─ timeline.js           # an importable module
+│  ├─ data
+│  │  ├─ launches.csv.js       # a data loader
+│  │  └─ events.json           # a static data file
+│  ├─ example-dashboard.md     # a page
+│  ├─ example-report.md        # another page
+│  └─ index.md                 # the home page
+├─ .gitignore
+├─ observablehq.config.js      # the app config file
+├─ package.json
+└─ README.md
+```
 
-### People
+**`src`** - This is the “source root” — where your source files live. Pages go here. Each page is a Markdown file. Observable Framework uses [file-based routing](https://observablehq.com/framework/routing), which means that the name of the file controls where the page is served. You can create as many pages as you like. Use folders to organize your pages.
 
-* LMEC
-    * [Ian Spangler, Ph.D.](https://www.leventhalmap.org/about/people/ian-spangler/), Project Director
-    * [Emily Bowe](https://www.leventhalmap.org/about/people/emily-bowe/), Consortium for Public Geography Coordinator
-    * [Garrett Dash Nelson, Ph.D.](https://www.leventhalmap.org/about/people/garrett-nelson), Digital Humanities Scholar
-    * [Rachel Sharer](https://www.leventhalmap.org/about/people/rachel-sharer/), Development Coordinator
-* AGSL
-    * [Marcy Bidney, MLIS](https://uwm.edu/libraries/people/bidney-marcy/), Assistant Project Director
-    * [Ann Hanlon, MLIS](https://uwm.edu/libraries/people/hanlon-ann/), Advisor for Digital Humanities
-    * [Stephen Appel](https://uwm.edu/libraries/people/appel-stephen/), Geospatial Data Support
-    * [Jie Chen](https://uwm.edu/libraries/people/chen-jie/), CONTENTdm Application Developer
-* Partners
-    * [Bert Spaan](https://bertspaan.nl/), Lead Developer
-    * [Harrison Cole, Ph.D.](https://www.harrisoncarto.com/), Cartographic Accessibility Compliance Consultant
+**`src/index.md`** - This is the home page for your app. You can have as many additional pages as you’d like, but you should always have a home page, too.
 
-<!-- ![Allmaps logo](assets/media/allmaps-logo.png)
-![LMEC logo](https://atlascope.leventhalmap.org/lmec-logo.31e47705.)
-![AGSL logo](https://collections.lib.uwm.edu/customizations/collection/leenh/uwmlibrarieslogo-whiteborder.jpg) -->
+**`src/data`** - You can put [data loaders](https://observablehq.com/framework/loaders) or static data files anywhere in your source root, but we recommend putting them here.
+
+**`src/components`** - You can put shared [JavaScript modules](https://observablehq.com/framework/javascript/imports) anywhere in your source root, but we recommend putting them here. This helps you pull code out of Markdown files and into JavaScript modules, making it easier to reuse code across pages, write tests and run linters, and even share code with vanilla web applications.
+
+**`observablehq.config.js`** - This is the [app configuration](https://observablehq.com/framework/config) file, such as the pages and sections in the sidebar navigation, and the app’s title.
+
+## Command reference
+
+| Command              | Description                                 |
+| -------------------- | ------------------------------------------- |
+| `npm install`        | Install or reinstall dependencies           |
+| `npm run dev`        | Start local preview server                  |
+| `npm run build`      | Build your static site, generating `./dist` |
+| `npm run deploy`     | Deploy your app to Observable               |
+| `npm run clean`      | Clear the local data loader cache           |
+| `npm run observable` | Run commands like `observable help`         |
