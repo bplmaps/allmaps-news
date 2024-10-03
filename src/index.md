@@ -1,28 +1,48 @@
 ---
-title: Open Maps Meeting
+title: Home
 toc: false
 ---
 
 ```js
+import * as d3 from "npm:d3";
+import confetti from "npm:canvas-confetti";
 const background = await FileAttachment("assets/background-boston.jpg").href;
 d3.select("body").style("background-image", "url(" + background + ")");
+const img = document.getElementById("clickme");
+img.addEventListener("click", (event) => {
+  const rect = img.getBoundingClientRect();
+  const x = rect.left + rect.width / 2;
+  const y = rect.top + rect.height / 2;
+  confetti({
+    origin: { x: x / window.innerWidth, y: y / window.innerHeight },
+    particleCount: 100,
+    spread: 500,
+  });
+});
 ```
+<div class="container">
+  <hgroup class="hgroup">
+    <img id="clickme" src="./favicon.png" width="50px" can-spin>
+    <span class="speech-bubble slim shake">November 18, 2024: Save the date for the<a href="/2024-convening"><b> Allmaps 2024 Fall Convening!</b></a></span>
+  </hgroup>
+</div>
 
-<img class="banner" src="assets/hero-wide.svg" can-move id="test">
+<img class="banner" src="assets/hero-wide-fixed.svg">
 
 <div class="hero">
   <h2>The <a href="https://leventhalmap.org" target="blank">Leventhal Map & Education Center (LMEC)</a> at the Boston Public Library and the <a href="https://uwm.edu/lib-collections/agsl-digital-map-collection/" target="blank">American Geographical Society Library (AGSL)</a> at the University of Wisconsin-Milwaukee are working with the <a href="https://allmaps.org" target="blank">Allmaps Project</a> to make digital tools like Allmaps more sustainable. </h2>
+  <p>Allmaps makes it easier and more fun to georeference maps </p>
   <p><i>This work is funded by a National Endowment for the Humanities Digital Humanities Advancement Grant</i></p>
-  <!-- <a href="/introduction">Introduction<span style="display: inline-block; margin-left: 0.25rem;">↗︎</span></a>
-  <a href="/programme">Programme<span style="display: inline-block; margin-left: 0.25rem;">↗︎</span></a>
-  <a href="/practical">Practical information<span style="display: inline-block; margin-left: 0.25rem;">↗︎</span></a>
-  <a href="/register">Register<span style="display: inline-block; margin-left: 0.25rem;">↗︎</span></a> -->
+  <a href="/2024-convening">2024 Convening<span style="display: inline-block; margin-left: 0.25rem;">↗︎</span></a>
+  <a href="/news">News & updates<span style="display: inline-block; margin-left: 0.25rem;">↗︎</span></a>
+  <a href="/about-the-grant">About the grant<span style="display: inline-block; margin-left: 0.25rem;">↗︎</span></a>
+  <a href="/stay-in-touch">Stay in touch<span style="display: inline-block; margin-left: 0.25rem;">↗︎</span></a>
 </div>
 
 <div class="grid grid-cols-4">
   <div class="card"><a href="https://leventhalmap.org"><img class="logo" src="/assets/LMEC-logo.webp"></a></div>
   <div class="card"><a href="https://www.tudelft.nl/"><img class="logo" src="https://collections.lib.uwm.edu/customizations/collection/agsmap/uwmlibrarieslogo-whiteborder.jpg"></a></div>
-  <div class="card"><a href="https://www.neh.gov/grants/odh/digital-humanities-advancement-grants"><img class="logo" src="https://www.neh.gov/sites/default/files/2024-08/NEH%20Logo%20-%20Inversed%20Color%20-%20Vertical_0.png"></a></div>
+  <div class="card"><a href="https://www.neh.gov/grants/odh/digital-humanities-advancement-grants"><img class="logo" src="/assets/nehlogo.jpg"></a></div>
   <div class="card"><a href="https://iiif.io/"><img class="logo" style="invert: 1" src="https://upload.wikimedia.org/wikipedia/commons/e/e8/International_Image_Interoperability_Framework_logo.png"></a></div>
 </div>
 
@@ -97,3 +117,8 @@ body {
 }
 
 </style>
+
+<script
+  type="module"
+  src="https://unpkg.com/playhtml@latest/dist/init.es.js">
+</script>

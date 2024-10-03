@@ -2,12 +2,18 @@
 import { createHash } from "node:crypto";
 import { readFileSync } from "node:fs";
 import { join } from "node:path/posix";
+// import { Latest } from "@allmaps/latest";
 
 const SITE_NAME = "Allmaps News";
-const HTTP_ROOT = "https://openmapsmeeting.nl/";
+const HTTP_ROOT = "https://allmaps-outlines.observablehq.cloud/";
 const SRC_ROOT = "src";
 
 export default {
+    content: [
+    './node_modules/@allmaps/ui/dist/components/**/*.{svelte,ts}',
+    './node_modules/@allmaps/latest/dist/components/**/*.{svelte,ts}',
+    './src/**/*.{astro,html,js,jsx,md,mdx,svelte,ts,tsx,vue}'
+  ],
   // The app’s title; used in the sidebar and webpage titles.
   title: SITE_NAME,
 
@@ -16,11 +22,10 @@ export default {
   // lets you organize them into sections and have unlisted pages.
   pages: [
     { name: "What is Allmaps?", path: "/what-is-allmaps" },
+    { name: "About the Grant", path: "/about-the-grant"},
+    { name: "News and Updates", path: "/news-and-updates/index" },
     { name: "2024 Convening", path: "/2024-convening" },
-    { name: "LMEC and Allmaps", path: "/lmec-and-allmaps" },
-    { name: "AGSL and Allmaps", path: "/agsl-and-allmaps" },
     { name: "Allmaps Research Fellows", path: "/allmaps-research-fellows" },
-    { name: "Get involved", path: "/get-involved" },
     { name: "Stay in touch", path: "/stay-in-touch" },
   ],
 
@@ -56,7 +61,7 @@ function footer({ path }) {
 function head({ path, title }) {
   return `<link rel="icon" type="image/png" href="/favicon.png" sizes="32x32">
   <meta property="og:title" content=${JSON.stringify(title ?? SITE_NAME)}>
-  <meta name="description" property="og:description" content="Open Maps Meeting: November 5 & 6 2024 at the Dutch National Archives and National Library" />
+  <meta name="description" property="og:description" content="News and updates from LMEC and AGSL about the Allmaps Project" />
   <meta property="og:type" content="website">
   ${og_image()}`;
 }
