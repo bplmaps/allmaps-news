@@ -40,10 +40,10 @@ img.addEventListener("click", (event) => {
 </div>
 
 <div class="grid grid-cols-4">
-  <div class="card"><a href="https://leventhalmap.org"><img class="logo" src="/assets/LMEC-logo.webp"></a></div>
-  <div class="card"><a href="https://www.tudelft.nl/"><img class="logo" src="https://collections.lib.uwm.edu/customizations/collection/agsmap/uwmlibrarieslogo-whiteborder.jpg"></a></div>
-  <div class="card"><a href="https://www.neh.gov/grants/odh/digital-humanities-advancement-grants"><img class="logo" src="/assets/nehlogo.jpg"></a></div>
-  <div class="card"><a href="https://iiif.io/"><img class="logo" style="invert: 1" src="https://upload.wikimedia.org/wikipedia/commons/e/e8/International_Image_Interoperability_Framework_logo.png"></a></div>
+  <div class="front"><a href="https://leventhalmap.org"><img class="logo" src="/assets/LMEC-logo.webp"></a></div>
+  <div class="front"><a href="https://www.tudelft.nl/"><img class="logo" src="https://collections.lib.uwm.edu/customizations/collection/agsmap/uwmlibrarieslogo-whiteborder.jpg"></a></div>
+  <div class="front"><a href="https://www.neh.gov/grants/odh/digital-humanities-advancement-grants"><img class="logo" src="/assets/nehlogo.jpg"></a></div>
+  <div class="front"><a href="https://iiif.io/"><img class="logo" style="invert: 1" src="https://upload.wikimedia.org/wikipedia/commons/e/e8/International_Image_Interoperability_Framework_logo.png"></a></div>
 </div>
 
 <style>
