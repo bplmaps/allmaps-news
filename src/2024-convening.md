@@ -12,9 +12,16 @@ title: 2024 Convening
     <div class="one">
         <h3>Day 1 Program</h3>
         <i>November 18, 2024</i>
-        <!-- <div style="font-size:0.8em; padding:6px;">
-            <p>Register now for Day 1 of the Allmaps Public Convening</p>
-        </div> -->
+        <div style="font-size:0.8em; padding:6px;">
+            <p>Day 1 of the Convening is free and open to all. Direct questions to Ian Spangler at
+                <code style="font-size:0.8em; background:#ffbbe3">
+                    ispangler at leventhalmap dot org
+                        <a href="mailto:ispangler@leventhalmap.org">
+                            <img src="https://www.svgrepo.com/show/14478/email.svg" style="vertical-align:middle;" width="10px"></img>
+                        </a>
+                </code>
+            </p>
+        </div>
         <ol class="circle-list">
         <li>
             <h3>Introduction to Allmaps</h3>
@@ -44,7 +51,7 @@ title: 2024 Convening
         <h3>Day 2 Program</h3>
         <i>November 19, 2024</i>
         <div style="font-size:0.8em;padding:6px;">
-            <p>Day 2 of the Convening is invite-only. To learn more, email Ian Spangler at
+            <p>Day 2 of the Convening is invite-only. Direct questions to Ian Spangler at
                 <code style="font-size:0.8em; background:#ffbbe3">
                     ispangler at leventhalmap dot org
                         <a href="mailto:ispangler@leventhalmap.org">
@@ -55,24 +62,26 @@ title: 2024 Convening
         </div>
         <ol class="circle-list cl-right">
         <li>
-            <h3>Introduction to Allmaps</h3>
+            <h3>Allmaps + Curation</h3>
             <p><img src="assets/cal.svg" width="15px"></img> 11:00am-11:50am ET</p>
             <div class="desc">
-                <p>Members of the Allmaps project team provide an overview of the Allmaps software ecosystem.</p>
+                <p>Discussion of the forthcoming Allmaps Curator application, with focus on user entities, teaching, research.</p>
             </div>
         <li>
-            <h3>​Allmaps + Research</h3>
+            <h3>Sustainability + DH</h3>
             <p><img src="assets/cal.svg" width="15px"></img> 12:00pm-12:50pm ET</p>
             <div class="desc">
-                <!-- <i>Jonathan Anjaria, Charlotte Leib, and Jennifer Jordan & Vijaya ...</i> -->
-                <p><a href="./allmaps-research-fellows" style="font-weight:bold">Allmaps Research Fellows</a> share experiences using Allmaps for research and educational contexts.</p>
+                <p>A panel of digital humanities experts share their experiences with different models for tool-building sustainability.</p>
             </div>
             <b></b>
         <li>
             <h3>Reflection + Conversation</h3>
             <p><img src="assets/cal.svg" width="15px"></img> ​1:00pm-1:50 pm ET</p>
+            <div class="desc">
+                <p>Facilitated discussion of technical, financial, and social infrastructure for maintaining Allmaps and other tools like it.</p>
+            </div>
         <li>
-        <a href="" class="register shake">
+        <a href="mailto:ispangler@leventhalmap.org" class="register shake">
             INQUIRE ABOUT DAY 2
         </a>
         </ol>

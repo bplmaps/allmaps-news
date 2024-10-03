@@ -6,7 +6,7 @@ title: NEH DHAG awarded for Allmaps project
 
 <img src="../assets/cal.svg" width="15px"> *13 April, 2024*
 
-<img src="https://allmaps-outlines.observablehq.cloud/allmaps-news/_file/assets/neh-news.2493e456.png" width="640px"></img>
+<img src="https://raw.githubusercontent.com/bplmaps/allmaps-news/refs/heads/main/src/assets/neh-news.png" width="640px"></img>
 
 <a href="https://lu.ma/yeccd3fr" class="register" style="font-size:0.8em;">
     Read the NEH announcement

@@ -6,7 +6,7 @@ title: "Allmaps team presents at NACIS"
 
 <img src="../assets/cal.svg" width="15px"> *25 October, 2023*
 
-<img src="https://allmaps-outlines.observablehq.cloud/allmaps-news/_file/assets/scalingup.39001001.png" width="640px"></img>
+<img src="https://raw.githubusercontent.com/bplmaps/allmaps-news/refs/heads/main/src/assets/scalingup.png" width="640px"></img>
 
 <a href="../about-the-grant#presentations" class="register" style="font-size:0.8em;">
     Check out the presentation

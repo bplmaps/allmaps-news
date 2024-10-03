@@ -22,10 +22,10 @@ export default {
   // lets you organize them into sections and have unlisted pages.
   pages: [
     { name: "What is Allmaps?", path: "/what-is-allmaps" },
-    { name: "About the Grant", path: "/about-the-grant"},
-    { name: "News and Updates", path: "/news-and-updates/index" },
     { name: "2024 Convening", path: "/2024-convening" },
+    { name: "News and Updates", path: "/news-and-updates/index" },
     { name: "Allmaps Research Fellows", path: "/allmaps-research-fellows" },
+    { name: "About the Grant", path: "/about-the-grant"},
     { name: "Stay in touch", path: "/stay-in-touch" },
   ],
 
