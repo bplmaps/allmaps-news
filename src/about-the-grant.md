@@ -14,7 +14,7 @@ The project has three major goals:
     <li>Creation of a user community that will steward <strong>maintenance and governance</strong> of the Allmaps ecosystem in perpetuity
 </ol>
 
-On November 18 and November 19, 2024, the grant team will host a two-day, virtual convening, focused on sharing updates from the Allmaps project as well as discussing governance and sustainability models that will 
+On **Monday, November 18**, the grant team will host a virtual convening focused on sharing updates from the Allmaps project as well as discussing potential governance and sustainability models. All are welcome—[register today for the Allmaps Public Convening](./2024-convening.md)!
 
 If you have an idea for how to use Allmaps or want to learn more about the software, [get in touch with us](./stay-in-touch).
 
