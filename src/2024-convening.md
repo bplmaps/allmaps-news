@@ -21,8 +21,8 @@ title: 2024 Convening
                         </a>
                 </code>, Ann Hanlon at
                 <code style="font-size:0.8em; background:#ffbbe3">
-                    ahanlon at uwm dot edu
-                        <a href="mailto:ahanlon@uwm.edu">
+                    hanlon at uwm dot edu
+                        <a href="mailto:hanlon@uwm.edu">
                             <img src="https://www.svgrepo.com/show/14478/email.svg" style="vertical-align:middle;" width="10px"></img>
                         </a>
                 </code>, and Ian Spangler at
@@ -71,8 +71,8 @@ title: 2024 Convening
                         </a>
                 </code>, Ann Hanlon at
                 <code style="font-size:0.8em; background:#ffbbe3">
-                    ahanlon at uwm dot edu
-                        <a href="mailto:ahanlon@uwm.edu">
+                    hanlon at uwm dot edu
+                        <a href="mailto:hanlon@uwm.edu">
                             <img src="https://www.svgrepo.com/show/14478/email.svg" style="vertical-align:middle;" width="10px"></img>
                         </a>
                 </code>, and Ian Spangler at
@@ -105,7 +105,7 @@ title: 2024 Convening
                 <p>Facilitated discussion of technical, financial, and social infrastructure for maintaining Allmaps and other tools like it.</p>
             </div>
         <li>
-        <a href="mailto:ebowe@leventhalmap.org?subject=Inquiry%20about%20Allmaps%20Public%20Convening&cc=ahanlon@uwm.edu;ispangler@leventhalmap.org" class="register shake">
+        <a href="mailto:ebowe@leventhalmap.org?subject=Inquiry%20about%20Allmaps%20Public%20Convening&cc=hanlon@uwm.edu;ispangler@leventhalmap.org" class="register shake">
             INQUIRE ABOUT DAY 2
         </a>
         </ol>
