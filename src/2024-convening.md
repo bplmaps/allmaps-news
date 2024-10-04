@@ -105,7 +105,7 @@ title: 2024 Convening
                 <p>Facilitated discussion of technical, financial, and social infrastructure for maintaining Allmaps and other tools like it.</p>
             </div>
         <li>
-        <a href="mailto:ebowe@leventhalmap.org" class="register shake">
+        <a href="mailto:ebowe@leventhalmap.org?subject=Inquiry%20about%20Allmaps%20Public%20Convening&cc=ahanlon@uwm.edu;ispangler@leventhalmap.org" class="register shake">
             INQUIRE ABOUT DAY 2
         </a>
         </ol>
