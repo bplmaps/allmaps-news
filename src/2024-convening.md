@@ -13,7 +13,19 @@ title: 2024 Convening
         <h3>Day 1 Program</h3>
         <i>November 18, 2024</i>
         <div style="font-size:0.8em; padding:6px;">
-            <p>Day 1 of the Convening is free and open to all. Direct questions to Ian Spangler at
+            <p>Day 1 of the Convening is <strong>free and open to all</strong>. Direct questions to Emily Bowe at
+                <code style="font-size:0.8em; background:#ffbbe3">
+                    ebowe at leventhalmap dot org
+                        <a href="mailto:ebowe@leventhalmap.org">
+                            <img src="https://www.svgrepo.com/show/14478/email.svg" style="vertical-align:middle;" width="10px"></img>
+                        </a>
+                </code>, Ann Hanlon at
+                <code style="font-size:0.8em; background:#ffbbe3">
+                    ahanlon at uwm dot edu
+                        <a href="mailto:ahanlon@uwm.edu">
+                            <img src="https://www.svgrepo.com/show/14478/email.svg" style="vertical-align:middle;" width="10px"></img>
+                        </a>
+                </code>, and Ian Spangler at
                 <code style="font-size:0.8em; background:#ffbbe3">
                     ispangler at leventhalmap dot org
                         <a href="mailto:ispangler@leventhalmap.org">
@@ -51,7 +63,19 @@ title: 2024 Convening
         <h3>Day 2 Program</h3>
         <i>November 19, 2024</i>
         <div style="font-size:0.8em;padding:6px;">
-            <p>Day 2 of the Convening is invite-only. Direct questions to Ian Spangler at
+            <p>Day 2 of the Convening is <strong>by invitation</strong>. To learn more, please write to Emily Bowe at
+                <code style="font-size:0.8em; background:#ffbbe3">
+                    ebowe at leventhalmap dot org
+                        <a href="mailto:ebowe@leventhalmap.org">
+                            <img src="https://www.svgrepo.com/show/14478/email.svg" style="vertical-align:middle;" width="10px"></img>
+                        </a>
+                </code>, Ann Hanlon at
+                <code style="font-size:0.8em; background:#ffbbe3">
+                    ahanlon at uwm dot edu
+                        <a href="mailto:ahanlon@uwm.edu">
+                            <img src="https://www.svgrepo.com/show/14478/email.svg" style="vertical-align:middle;" width="10px"></img>
+                        </a>
+                </code>, and Ian Spangler at
                 <code style="font-size:0.8em; background:#ffbbe3">
                     ispangler at leventhalmap dot org
                         <a href="mailto:ispangler@leventhalmap.org">
@@ -81,7 +105,7 @@ title: 2024 Convening
                 <p>Facilitated discussion of technical, financial, and social infrastructure for maintaining Allmaps and other tools like it.</p>
             </div>
         <li>
-        <a href="mailto:ispangler@leventhalmap.org" class="register shake">
+        <a href="mailto:ebowe@leventhalmap.org" class="register shake">
             INQUIRE ABOUT DAY 2
         </a>
         </ol>
