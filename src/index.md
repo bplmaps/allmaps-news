@@ -31,7 +31,6 @@ img.addEventListener("click", (event) => {
 
 <div class="hero">
   <h2>The <a href="https://leventhalmap.org" target="blank">Leventhal Map & Education Center (LMEC)</a> at the Boston Public Library and the <a href="https://uwm.edu/lib-collections/agsl-digital-map-collection/" target="blank">American Geographical Society Library (AGSL)</a> at the University of Wisconsin-Milwaukee are working with the <a href="https://allmaps.org" target="blank">Allmaps Project</a> to make digital tools like Allmaps more sustainable. </h2>
-  <p>Allmaps makes it easier and more fun to georeference maps </p>
   <p><i>This work is funded by a National Endowment for the Humanities Digital Humanities Advancement Grant</i></p>
   <a href="/2024-convening">2024 Convening<span style="display: inline-block; margin-left: 0.25rem;">↗︎</span></a>
   <a href="/news">News & updates<span style="display: inline-block; margin-left: 0.25rem;">↗︎</span></a>
