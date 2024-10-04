@@ -16,7 +16,7 @@ Allmaps consists of two main applications: [Allmaps Editor](https://editor.allma
 
 Allmaps loads maps with the <a href="https://iiif.io"><img src="./assets/iiif.svg" width=20px></a> **The IIIF protocol**, a widely used framework for sharing deeply-zoomable, high-resolution images on the web. By loading maps that already exist on IIIF servers, Allmaps bypasses the computationally intensive and time-consuming steps of downloading and processing large image files (like TIFFs and GeoTIFFs).
 
-Allmaps is built in [Astro](https://astro.build/) and [TailwindCSS](https://tailwindcss.com/), and uses [IIIF](https://iiif.io/), [WebGL](https://developer.mozilla.org/en-US/docs/Web/API/WebGL_API), and [OpenLayers](https://openlayers.org/) to dynamically warp maps in the browser. See the [GitHub repository](https://github.com/allmaps/allmaps) for a full description of the Allmaps codebase.
+Allmaps is built in [Svelte](https://svelte.dev/) and [TailwindCSS](https://tailwindcss.com/), and uses [IIIF](https://iiif.io/), [WebGL](https://developer.mozilla.org/en-US/docs/Web/API/WebGL_API), and [OpenLayers](https://openlayers.org/) to dynamically warp maps in the browser. See the [GitHub repository](https://github.com/allmaps/allmaps) for a full description of the Allmaps codebase.
 
 ## Georeference annotations
 

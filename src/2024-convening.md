@@ -6,7 +6,7 @@ title: 2024 Convening
 
 <a href="https://lu.ma/yeccd3fr"><img src="/assets/convening.svg"></img></a>
 
-[Registration is open](https://lu.ma/yeccd3fr) for the first **Allmaps Public Convening**—a free, virtual, two-day event focused—on collections, research, and educational uses of the Allmaps software ecosystem.
+[Registration is open](https://lu.ma/yeccd3fr) for the first **Allmaps Public Convening**—a free, virtual, two-day event—focused on collections, research, and educational uses of the Allmaps software ecosystem.
 
 <div class="grid grid-cols-2 kindaslim container">
     <div class="one">
