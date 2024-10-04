@@ -4,7 +4,7 @@ title: About the grant
 
 # About the Grant
 
-The [Leventhal Map & Education Center (LMEC)](https://www.leventhalmap.org/) at the Boston Public Library and the [American Geographical Society Library (AGSL)](https://uwm.edu/lib-collections/agsl-digital-map-collection/) at the University of Wisconsin-Milwaukee (UWM) were awarded a **Digital Humanities Advancement Grant (DHAG)** from the **National Endowment for the Humanities (NEH)** for the project *Making Open-Source Georeferencing Technology Collections-Ready with Allmaps*.
+The [Leventhal Map & Education Center (LMEC)](https://www.leventhalmap.org/) at the Boston Public Library and the [American Geographical Society Library (AGSL)](https://uwm.edu/lib-collections/agsl-digital-map-collection/) at the University of Wisconsin-Milwaukee (UWM) were awarded a **Digital Humanities Advancement Grant (DHAG)** from the **National Endowment for the Humanities (NEH)** for the project *Making Open-Source Georeferencing Technology Collections-Ready with Allmaps* (<code style="font-size:0.8em; background:#ffbbe3">Award HAA-293491-23</code>).
 
 The project has three major goals:
 
