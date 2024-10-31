@@ -10,7 +10,7 @@ Are you a researcher, scholar, cartographer, or essayist with interests at the i
 
 **LMEC and AGSL are actively seeking applicants to our Allmaps Research Fellowship program.** We’re looking for compelling stories that not only bridge the divide between academic scholarship and public education, but use [georeferenced maps](https://www.leventhalmap.org/projects/digital-projects/georeferencing/) to bring those stories to life.
 
-The Fellowship consists of a **$1,200 honorarium** to support research and development time. LMEC and AGSL staff will also provide research and technical support through all stages of the digital publication process. **Anybody is eligible for an Allmaps Research Fellowship**, provided that their proposed project uses Allmaps.
+The Fellowship consists of a **$1,200 honorarium** to support research and development time. LMEC and AGSL staff will also provide research and technical support through all stages of the digital publication process. Any topic is eligible for an Allmaps Research Fellowship, provided that the proposed project uses Allmaps, **but you must have a U.S. bank account in order to receive the stipend**.
 
 **Fellows are expected to create a digital publication.** Digital publications produced through the Allmaps Research Fellowship program will be published and hosted by LMEC on one or more of its digital portals, though projects will be licensed on a Creative Commons license and further publication, in digital or print formats, is not precluded by receipt of an award. Projects may be conducted remotely, and award recipients are not required to plan any in-person project time in Boston.
 

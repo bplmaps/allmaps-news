@@ -52,7 +52,7 @@ title: 2024 Convening
             <h3>Allmaps + Collections</h3>
             <p><img src="assets/cal.svg" width="15px"></img> ​1:00pm-1:50 pm ET</p>
             <div class="desc">
-                <p>LMEC and AGSL head curators offer reflections on working with Allmaps from the perspective of large map collections.</p>
+                <p>Allmaps developers and LMEC and AGSL head curators offer reflections on working with Allmaps from the perspective of large map collections.</p>
             </div>
         <li><a href="https://lu.ma/yeccd3fr" class="register shake">
             REGISTER FOR DAY 1
@@ -86,10 +86,10 @@ title: 2024 Convening
         </div>
         <ol class="circle-list cl-right">
         <li>
-            <h3>Allmaps + Curation</h3>
+            <h3>Assessing the terrain</h3>
             <p><img src="assets/cal.svg" width="15px"></img> 11:00am-11:50am ET</p>
             <div class="desc">
-                <p>Discussion of the forthcoming Allmaps Curator application, with focus on user entities, teaching, research.</p>
+                <p>Participatory conversation of use cases and ideal workflows using Allmaps.</p>
             </div>
         <li>
             <h3>Sustainability + DH</h3>
